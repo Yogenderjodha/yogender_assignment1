@@ -1,0 +1,9 @@
+[
+    {
+        "Id": 1,
+        "ProjectKey": "pearsonchaucer",
+        "ProjectTitle": "Pearson Chaucer",
+        "Environments": ["Dev", "QA", "UAT"],
+        "InfrastructureModel": "model1"
+    }
+]
